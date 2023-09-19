@@ -10,29 +10,47 @@
 - 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
 
-- ### My contact
+### My contact
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Linkedin" width="350" />](https://www.linkedin.com/in/huong-nguyen-gina-dataanalyst-businessanalyst/)
-
-
-
-<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
+<a href="[https://linkedin.com/in/abdoachhoubi](https://www.linkedin.com/in/huong-nguyen-gina-dataanalyst-businessanalyst/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+thuhuong.ah2000@gmail.com
+
+
+## Technical Skills
+- SQL: MySQL, Azure Data Studio, Google BigQuery
+- Power BI: DAX, Power Query, Data Modeling
+- Python: Pandas, NumPy, MatPlotLib, Seaborn
+- Machine Learning: Supervised Learning with Scikit-learn
+
+
+
+### My Projects ✨:
+  
+
+<a href="https://github.com/ThuHuong-Gina/Data-Bank_8-week-SQL-Challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThuHuong-Gina&repo=Data-Bank_8-week-SQL-Challenge&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ThuHuong-Gina/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThuHuong-Gina&repo=Ecommerce_Exploring_in_SQL&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ThuHuong-Gina/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThuHuong-Gina&repo=RFM-Analysis_Python-Project&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ThuHuong-Gina/Credit-Score_Project">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThuHuong-Gina&repo=Credit-Score_Project&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ThuHuong-Gina/Fraud-Detect-Transaction">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThuHuong-Gina&repo=Fraud-Detect-Transaction&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ThuHuong-Gina/SuperStore-Dashboard_Power-BI-project">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThuHuong-Gina&repo=SuperStore-Dashboard_Power-BI-project&theme=tokyonight" />
 </a>
 
 
-
-<!--
-**ThuHuong-Gina/ThuHuong-Gina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
