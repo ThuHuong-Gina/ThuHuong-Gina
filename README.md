@@ -13,9 +13,9 @@
 ## My contact
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huong-nguyen-gina-dataanalyst-businessanalyst/) or thuhuong.ah2000@gmail.com
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huong-nguyen-gina-dataanalyst-businessanalyst/) or  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:thuhuong.ah2000@gmail.com) thuhuong.ah2000@gmail.com
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:thuhuong.ah2000@gmail.com)
+
 
 ## Technical Skills
 - SQL: MySQL, Azure Data Studio, Google BigQuery
