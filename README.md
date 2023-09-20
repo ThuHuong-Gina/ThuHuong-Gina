@@ -12,17 +12,15 @@
 
 ## My contact
 
-<a href="[https://www.linkedin.com/in/huong-nguyen-gina-dataanalyst-businessanalyst](https://www.linkedin.com/in/huong-nguyen-gina-dataanalyst-businessanalyst)" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-thuhuong.ah2000@gmail.com
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huong-nguyen-gina-dataanalyst-businessanalyst/) or thuhuong.ah2000@gmail.com
 
 
 ## Technical Skills
 - SQL: MySQL, Azure Data Studio, Google BigQuery
 - Power BI: DAX, Power Query, Data Modeling
 - Python: Pandas, NumPy, MatPlotLib, Seaborn
-- Machine Learning: Supervised Learning with Scikit-learn
+- Machine Learning: Supervised Learning with Scikit-Learn
 
 
 
